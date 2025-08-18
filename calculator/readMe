@@ -1,0 +1,12 @@
+pseudo code:
+* details: the project is a calculator that does the following actions
+add
+subtract
+multiply
+divide
+* functions: A calculator operation will consist of a number, an operator, and another number.
+* CSS: 
+Gray background.
+Buttons for each number and operator.
+A section to show the results.
+A button to execute and show the result.

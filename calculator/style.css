@@ -1,0 +1,10 @@
+*{
+    background-color:darkgrey;
+}
+
+.result{
+    border: 1 solid;
+    border-color: aquamarine;
+    align-items: center;
+    display: flexbox;
+}
