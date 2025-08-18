@@ -4,9 +4,20 @@ add
 subtract
 multiply
 divide
-* functions: A calculator operation will consist of a number, an operator, and another number.
+
+* functionality:
+1. use const screen to store the screen value in js.
+2. make appendToScreen function that takes the input and sends it to screen.
+3. make clearScreen function that clears the value of the screen.
+4. make calculate function that does the math through:
+    1. split the operators from the screen and store the numbers in a constant called number.
+    2. split the numbers from the screen and store the operators in a constant 
+    called number.
+    3. store the the first array element in num1 and the second element in num2.
+    3. if the operator is "*" then do num1 * num2 and show it to the screen and etc...
+    
+
 * CSS: 
 Gray background.
 Buttons for each number and operator.
 A section to show the results.
-A button to execute and show the result.
