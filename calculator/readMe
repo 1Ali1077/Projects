@@ -14,7 +14,7 @@ divide
     2. split the numbers from the screen and store the operators in a constant 
     called number.
     3. store the the first array element in num1 and the second element in num2.
-    3. if the operator is "*" then do num1 * num2 and show it to the screen and etc...
+    4. if the operator is "*" then do num1 * num2 and show it to the screen and etc...
     
 
 * CSS: 
